@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "type": "msedge",
+            "name": "http://192.168.0.106:3000/form/index.html",
+            "request": "launch",
+            "url": "http://192.168.0.106:3000/form/index.html"
+        }
+    ]
+}

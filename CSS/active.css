@@ -1,0 +1,10 @@
+button{
+    background-color: red;
+
+}
+#btn:active{
+    background-color: green;
+}
+input[type = "radio"]:active{
+    background-color: red;
+}
